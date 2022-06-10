@@ -1,0 +1,22 @@
+# keep this updated
+name: ford-hackathon
+channels:
+- conda-forge
+dependencies:
+- pip
+- numpy
+- pandas
+- scipy
+- scikit-learn
+- requests
+- pyreadstat
+- plotly
+- matplotlib
+- jupyterlab
+- nbstripout
+- flake8
+- statsmodels
+- openpyxl
+- pip:
+  - pytrends
+  - cufflinks
